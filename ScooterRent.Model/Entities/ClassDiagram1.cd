@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ScooterRent_Model.Scooter">
+    <Position X="6" Y="1" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAgAEAIAAAACAAAAAAAQAAAAAAAAg=</HashCode>
+      <FileName>Entities\Scooter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Office" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ScooterRent_Model.Office">
+    <Position X="9.75" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAgAAAAAAAAQAAAgAAAAAACAAAQAAAAA=</HashCode>
+      <FileName>Entities\Office.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ScooterRent_Model.Subscriber">
+    <Position X="14" Y="0.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAEAAAAAAAAIAQABCAAAAAAAAgAAAAAAAQ=</HashCode>
+      <FileName>Entities\Subscriber.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Office" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ScooterRent_Model.Rent">
+    <Position X="9.75" Y="4.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAQCAAAACAAAAAAAAAAAAAAAAEAAAAAAAg=</HashCode>
+      <FileName>Entities\Rent.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Subscriber" />
+      <Property Name="Scooter" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

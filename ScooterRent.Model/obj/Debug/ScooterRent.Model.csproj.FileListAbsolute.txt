@@ -1,0 +1,225 @@
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Kujundzic_Pavao_LabProfila\Gradska knjiznica\GradskaKnjiznica.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\backup2 - Copy - Copy - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\backup10 - Copy (3)\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\zadnje najbolje - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\medukorak 13- napravljen pregled za pojedini office - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gabriela\Desktop\sigurica - Copy\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\pokusaj1\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll.config
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.Model.pdb
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NDbUnit.Core.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.pdb
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\ScooterRent.BaseLibraries.dll.config
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\NHibernate.xml
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.dll
+C:\Users\Gabriela\Desktop\pokusaj\Dorić_Gabriela_ScooterRent\ScooterRent\ScooterRent.Model\obj\Debug\ScooterRent.Model.pdb

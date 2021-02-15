@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.props" Condition="Exists('..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.props')" />
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6504872-A0E1-4106-A276-998B21E64C06}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ScooterRent.PresentationLayer</RootNamespace>
+    <AssemblyName>ScooterRent.PresentationLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NDbUnit.Core, Version=1.6.7.20099, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NDbUnit.Core.1.6.7.0\lib\Net35\NDbUnit.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.1.1.4000\lib\net40\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.109.1\lib\net45\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.109.0\lib\net45\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.109.0\lib\net45\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormRentScooter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRentScooter.Designer.cs">
+      <DependentUpon>FormRentScooter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddScooter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddScooter.Designer.cs">
+      <DependentUpon>FormAddScooter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSubscriber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSubscriber.Designer.cs">
+      <DependentUpon>FormAddSubscriber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddOffice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddOffice.Designer.cs">
+      <DependentUpon>FormAddOffice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainWindow.Designer.cs">
+      <DependentUpon>FormMainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRemoveScooter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRemoveScooter.Designer.cs">
+      <DependentUpon>FormRemoveScooter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRemoveOffice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRemoveOffice.Designer.cs">
+      <DependentUpon>FormRemoveOffice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRemoveSubscriber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRemoveSubscriber.Designer.cs">
+      <DependentUpon>FormRemoveSubscriber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewAllScooters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewAllScooters.Designer.cs">
+      <DependentUpon>FormViewAllScooters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewOffices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewOffices.Designer.cs">
+      <DependentUpon>FormViewOffices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewOfficeStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewOfficeStatistics.Designer.cs">
+      <DependentUpon>FormViewOfficeStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewRentedScooters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewRentedScooters.Designer.cs">
+      <DependentUpon>FormViewRentedScooters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewSubscribers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewSubscribers.Designer.cs">
+      <DependentUpon>FormViewSubscribers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WindowFormsFactory.cs" />
+    <EmbeddedResource Include="FormAddScooter.resx">
+      <DependentUpon>FormAddScooter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddOffice.resx">
+      <DependentUpon>FormAddOffice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSubscriber.resx">
+      <DependentUpon>FormAddSubscriber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainWindow.resx">
+      <DependentUpon>FormMainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRemoveScooter.resx">
+      <DependentUpon>FormRemoveScooter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRemoveOffice.resx">
+      <DependentUpon>FormRemoveOffice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRemoveSubscriber.resx">
+      <DependentUpon>FormRemoveSubscriber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRentScooter.resx">
+      <DependentUpon>FormRentScooter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewAllScooters.resx">
+      <DependentUpon>FormViewAllScooters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewOffices.resx">
+      <DependentUpon>FormViewOffices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewOfficeStatistics.resx">
+      <DependentUpon>FormViewOfficeStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewRentedScooters.resx">
+      <DependentUpon>FormViewRentedScooters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewSubscribers.resx">
+      <DependentUpon>FormViewSubscribers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\GradskaKnjiznica_Model.Library.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ScooterRent.BaseLibraries\ScooterRent.BaseLib.csproj">
+      <Project>{61791C65-C550-409B-8703-95817C033864}</Project>
+      <Name>ScooterRent.BaseLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScooterRent.MemoryBasedDAL\ScooterRent.MemoryBasedDAL.csproj">
+      <Project>{FC4256CD-9165-42A7-84AC-1F5A1268FAAD}</Project>
+      <Name>ScooterRent.MemoryBasedDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScooterRent.Model\ScooterRent.Model.csproj">
+      <Project>{A6CF53E0-2CA2-4393-BC6D-7CEEEB0273DA}</Project>
+      <Name>ScooterRent.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.109.1\build\net45\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.109.1\build\net45\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.109.1\build\net45\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.109.1\build\net45\System.Data.SQLite.Core.targets'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.props'))" />
+    <Error Condition="!Exists('..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.targets" Condition="Exists('..\packages\MSTest.TestAdapter.2.1.2\build\net45\MSTest.TestAdapter.targets')" />
+</Project>
